@@ -9,14 +9,14 @@ Confira tudo o que temos no nosso Youtube. É gratis!
 
 ## Fluxo de trabalho Git local
 
-1. git checkout -b <nova-branch>
-2. cria ou atualiza arquivos
-3. git status
-4. git add .
-5. git status
-6. git commit -m "minha mensagem"
-7. git checkout main
-8. git merge nova_branch
+01. git checkout -b <nova-branch>
+02. cria ou atualiza arquivos
+03. git status
+04. git add .
+05. git status
+06. git commit -m "minha mensagem"
+07. git checkout main
+08. git merge nova_branch
 
 ## Fluxo de trabalho GitHub <> Local (projeto proprio ou da sua empresa)
 
