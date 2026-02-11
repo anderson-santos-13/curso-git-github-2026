@@ -49,4 +49,4 @@ Confira tudo o que temos no nosso Youtube. É gratis!
 12. git checkout main
 13. git branch -d <nova_branch>
 
-----------------
+--------------------------------------------------------
